@@ -1,0 +1,6 @@
+pymupdf
+requests
+pandas
+torch
+transformers
+accelerate
